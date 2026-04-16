@@ -12,5 +12,5 @@ AssetOrigin:
   productId: 213197
   packageName: Unity Terrain - URP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/MapArt/TextMeshPro/Shaders/TextMeshPro/TMPro_Mobile.cginc
+  assetPath: Assets/Art/MapArt/TextMeshPro/Shaders/TextMeshPro/TMPro_Mobile.cginc
   uploadId: 727820

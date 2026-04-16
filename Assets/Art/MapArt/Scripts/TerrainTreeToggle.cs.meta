@@ -14,5 +14,5 @@ AssetOrigin:
   productId: 213197
   packageName: Unity Terrain - URP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/MapArt/Scripts/TerrainTreeToggle.cs
+  assetPath: Assets/Art/MapArt/Scripts/TerrainTreeToggle.cs
   uploadId: 727820
